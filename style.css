@@ -1,0 +1,93 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+}
+.fontsmallest{
+    font-size: 12px ;
+}
+.gray-text{
+    color: #cecece;
+}
+
+.first-background{
+    background-image: url(./Assets/background1.jpg);
+    height: 97vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Second-background{
+    background-image: url(./Assets/background2.jpg);
+    height: 97vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.third-background{
+    background-image: url(./Assets/background3.jpg);
+    height: 98vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.m-back-1{
+    background-image: url(./Assets/m-back-1-a.jpg);
+    height: 80vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.m-back-2{
+    background-image: url(./Assets/m-back-2.jpg);
+    height: 80vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.m-back-3{
+    background-image: url(./Assets/m-back-3.jpg);
+    height: 80vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.m-back-4{
+    background-image: url(./Assets/m-back-4.jpg);
+    height: 80vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.m-back-5{
+    background-image: url(./Assets/m-back-5.jpg);
+    height: 80vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.m-back-6{
+    background-image: url(./Assets/m-back-6.jpg);
+    height: 80vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: #f5f5f7;
+}
+.footer-text{
+    font-size: 12px;
+}
+.borderline{
+    border-bottom: 1px solid;
+}
