@@ -96,8 +96,17 @@ footer{
     border: 1px solid black; 
 }
 
+nav.navFlex{
+    width: 100dvw;
+}
+
+
 @media only screen and (max-width: 998px){
     .navbar > li{
         display: none !important;
+    }
+    nav.navFlex{
+        display: flex !important;
+        justify-content: space-between !important;
     }
 }
